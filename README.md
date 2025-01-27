@@ -35,3 +35,21 @@ Atualmente, o projeto está **em desenvolvimento**. Faltam algumas melhorias na 
 **Demonstração da Aplicação**:
 
 - Clone ou baixe a aplicação.
+
+## Tecnologias utilizadas
+
+- **HTML**: Para a estrutura básica da aplicação.
+- **CSS**: Para o estilo e design da interface.
+- **JavaScript**: Para a lógia de sorteio e interatividade.
+- **GitHub Pages**: Para hospedagem do projeto online.
+
+## Pessoas Contribuidoras
+
+- **Alura**
+
+## Pessoas Desenvolvedoras do Projeto
+
+- **Gustavo Oliveira**
+
+## Licença
+Este projeto está licensiado sob a Licença MIT. Veja o arquivo [LICENSE](https://opensource.org/license/mit).
